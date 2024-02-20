@@ -82,7 +82,7 @@ export default function Home() {
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-8 pt-16">
            <DrawerTitle>All the best, friends.</DrawerTitle>
-           <DrawerDescription>{"Alright Sugar, I should've not abused you. You're also a <g> afterall. A goddess as I've been hearing since my childhood by my parents. I respect you. Dare abusing my family again and you'll find yourself outta my world."}</DrawerDescription>
+           <DrawerDescription>{"Alright Sugar, I should've not abused you. You're also a <g> afterall. A goddess as I've been hearing since my childhood by my parents. I respect you. Dare abusing my family again and you're gunna find yourself outta my world."}</DrawerDescription>
                       </div>
                     </DrawerHeader>
 
