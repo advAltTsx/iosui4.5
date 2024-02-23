@@ -84,7 +84,7 @@ export default function Home() {
            <DrawerTitle>All the best, friends.</DrawerTitle>
            <br/>
                         <DrawerDescription>{"Do it one more time and... "}</DrawerDescription>
-                      <DrawerDescription>{"Don't think like I never talked you in whole of 2 years. And it's coming to an end. Inspite of that, it's my pleasure to meet you. I'd be talking to you right from the next time with granted permissions. I can't do anything about being from a strick family. Besides I love my family more than anyone else."}</DrawerDescription>
+                      <DrawerDescription>{"Don't think like I never talked you in 2 years and nuisance. And it's coming to an end. Inspite of that, it's my pleasure to meet you. I'd be talking to you right from the next time with granted permissions. I can't do anything about being from a strick family. Besides I love my family more than anyone else."}</DrawerDescription>
                       </div>
                     </DrawerHeader>
 
