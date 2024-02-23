@@ -66,7 +66,7 @@ export default function Home() {
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>
                     <h1 className="scroll-m-30 underline p-6 text-2xl font-extrabold tracking-tight lg:text-5xl">
-                      {'Identified as "IRLS/*"'}
+                      {'You looked sad?'}
                     </h1>
                   </Button>
                 </DrawerTrigger>
@@ -83,7 +83,8 @@ export default function Home() {
                       <div className="flex flex-col justify-center text-center h-full py-10 px-8 pt-16">
            <DrawerTitle>All the best, friends.</DrawerTitle>
            <br/>
-                        <DrawerDescription>{"Alright Sugar, I should've not abused you. You're also a <g> afterall. A goddess as I've been hearing since my childhood by my parents. I respect you. Dare abusing my family again and you're gunna find yourself outta my world."}</DrawerDescription>
+                        <DrawerDescription>{"Do it one more time and... "}</DrawerDescription>
+                      <DrawerDescription>{"Don't think like I never talked you in whole of 2 years. And it's coming to an end. Inspite of that, it's my pleasure to meet you. I'd be talking to you right from the next time with granted permissions. I can't do anything about being from a strick family. Besides I love my family more than anyone else."}</DrawerDescription>
                       </div>
                     </DrawerHeader>
 
