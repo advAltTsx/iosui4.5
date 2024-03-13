@@ -3,7 +3,7 @@ const nextConfig = { async redirects() {
     return [
       {
         source: '/',
-        destination: 'www.abhyudaya.xyz',
+        destination: 'https://www.abhyudaya.xyz',
         permanent: true,
       },
     ]
